@@ -7,10 +7,10 @@ By Xihao Wang, Jiaming Lei, Hai Lan, Arafat Al-Jawari, Xian Wei
 This repository is the implementation of the paper ['DuEqNet: Dual-Equivariance Network in Outdoor 3D Object Detection for Autonomous Driving'](https://arxiv.org/abs/2302.13577).
 
 An visualization example from the front camera.
-<img src="dueqnet/example/CAM_FRONT_example.png" alt="vis1" style="zoom:30%;" />
+<img src="dueqnet/example/CAM_FRONT_example.png" alt="vis1" style="zoom:15%;" />
 
 An visualization example from the top lidar.
-<img src="dueqnet/example/LIDAR_TOP_example.png" alt="vis2" style="zoom:30%;" />
+<img src="dueqnet/example/LIDAR_TOP_example.png" alt="vis2" style="zoom:15%;" />
 
 
 ## Usage
