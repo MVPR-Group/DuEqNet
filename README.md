@@ -65,7 +65,7 @@ The evaluation results are shown below:
 
 ## License
 
-This repo is released under the [Apache 2.0 license](./mmdetection3d-v1.0.0rc3/LICENSE).
+This repo is released under the [Apache 2.0 license](LICENSE).
 
 ## Citation
 
