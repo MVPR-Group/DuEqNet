@@ -84,6 +84,8 @@ Hope our work can help your job, please consider citing our paper.
 
 Our job benefits from [mmdetection3d](https://github.com/open-mmlab/mmdetection3d). It's a great job for 3d detection.
 
+Also, thanks for some awesome works in 3d detection, like  [CenterPoint](https://github.com/tianweiy/CenterPoint), [3D Object Detection for Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2206.09474). Please consider citing them.
+
 ## Contact
 
 Any problem, please feel free to contact [xihaowang2016@gmail.com](xihaowang2016@gmail.com) or [lanhai09@fjirsm.ac.cn](lanhai09@fjirsm.ac.cn).
