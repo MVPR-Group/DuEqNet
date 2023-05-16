@@ -10,7 +10,7 @@ An visualization example from the front camera.
 <img src="dueqnet/example/CAM_FRONT_example.png" alt="vis1" style="zoom:30%;" />
 
 An visualization example from the top lidar.
-<img src="dueqnet/example/LiDAR_TOP_example.png" alt="vis2" style="zoom:30%;" />
+<img src="dueqnet/example/LIDAR_TOP_example.png" alt="vis2" style="zoom:30%;" />
 
 
 ## Usage
